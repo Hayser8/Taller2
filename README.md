@@ -153,4 +153,4 @@ evitar mezclar gestores en el mismo ambiente.
 - Configuración Conda en `environment.yml`.
 - Salidas verificadas de terminal en `docs/evidence/terminal-results.md`.
 - Las capturas PNG solicitadas están pendientes; ver `docs/screenshots/README.md`.
-- Para entregar el enlace público, publicar este repositorio en GitHub/GitLab y agregar el remoto correspondiente: esta copia local aún no tiene remoto.
+- Repositorio del taller: [Hayser8/Taller2](https://github.com/Hayser8/Taller2).
