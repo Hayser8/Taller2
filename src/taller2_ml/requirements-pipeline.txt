@@ -1,0 +1,3 @@
+# Requisitos directos del pipeline incluido en este paquete.
+numpy>=2.0,<3.0
+scikit-learn>=1.6,<2.0

@@ -1,0 +1,2 @@
+# Dependencias generales para el taller de Machine Learning.
+-r requirements-ml.txt

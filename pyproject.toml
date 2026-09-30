@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "taller2-ml"
+version = "0.1.0"
+description = "Ejercicio de ambientes virtuales y pipeline scikit-learn"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy>=2.0,<3.0",
+    "scikit-learn>=1.6,<2.0",
+]
+
+[project.scripts]
+taller2-pipeline = "taller2_ml.pipeline:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+include-package-data = true
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+taller2_ml = ["requirements-pipeline.txt"]

@@ -1,0 +1,7 @@
+# Paquetes comunes para exploración y proyectos de Machine Learning.
+numpy>=2.0,<3.0
+pandas>=2.2,<4.0
+scikit-learn>=1.6,<2.0
+matplotlib>=3.9,<4.0
+seaborn>=0.13,<1.0
+jupyterlab>=4.2,<5.0
