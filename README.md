@@ -9,6 +9,7 @@ scikit-learn como paquete.
 ```text
 .
 ├── environment.yml                 # Entorno reproducible con Conda
+├── Makefile                        # Atajos para instalar y ejecutar el pipeline
 ├── pyproject.toml                  # Metadatos y dependencias del paquete
 ├── requirements.txt                # Punto de entrada convencional para pip
 ├── requirements-ml.txt             # Herramientas generales de ML y análisis
@@ -37,8 +38,12 @@ source .venv/bin/activate
 python -m pip install --upgrade pip
 python -m pip install -r requirements.txt
 python -m pip install -e .
-python -m taller2_ml.pipeline
+taller2-pipeline
 ```
+
+El último comando es el *entrypoint* de consola que se define en
+`pyproject.toml`. También se puede ejecutar el módulo directamente con
+`python -m taller2_ml.pipeline`.
 
 En Windows PowerShell, la activación es `.\.venv\Scripts\Activate.ps1` y se
 mantiene el resto de los comandos `python -m pip ...`.
@@ -79,7 +84,7 @@ por `pip`.
 ```bash
 conda create --file environment.yml
 conda activate taller2-ml
-python -m taller2_ml.pipeline
+taller2-pipeline
 conda env list
 ```
 
@@ -120,7 +125,40 @@ y la [documentación oficial de Poetry](https://python-poetry.org/docs/).
 | Ventaja práctica | Es simple, está disponible con Python y deja visibles los pasos fundamentales. | Centraliza dependencias, lock, entornos y tareas de empaquetado para proyectos compartidos. |
 | Consideración | Más configuración manual a medida que crece el proyecto. | Añade una herramienta y convenciones propias; el equipo debe adoptar Poetry para operar con el manifiesto y lock. |
 
-## 6. Conclusiones
+## 6. Entrypoint de Python y Makefile
+
+En `pyproject.toml`, la tabla `[project.scripts]` registra el comando
+`taller2-pipeline` y lo conecta con `taller2_ml.pipeline:main`. El instalador
+crea el ejecutable de consola al instalar el paquete; por eso se puede llamar
+al pipeline por su nombre sin escribir una ruta al archivo Python.
+
+```toml
+[project.scripts]
+taller2-pipeline = "taller2_ml.pipeline:main"
+```
+
+Con el ambiente del proyecto activado, el Makefile ofrece dos objetivos para
+repetir los pasos comunes:
+
+```bash
+make install
+make run
+```
+
+`install` instala el proyecto en modo editable dentro del Python activo. `run`
+invoca el mismo comando de consola que se puede llamar directamente. En uv se
+puede usar `uv sync` y luego `uv run taller2-pipeline`; en Poetry,
+`poetry install` y luego `poetry run taller2-pipeline`. El `environment.yml` de
+este proyecto instala el paquete editable con pip dentro del ambiente Conda,
+así que tras activarlo también queda disponible el comando. Para distribuir un
+paquete nativo de Conda, `conda-build` admite declarar entradas de consola en
+`build.entry_points` dentro de la receta.
+
+Un Makefile organiza comandos bajo objetivos y puede servir como interfaz
+uniforme para desarrollo local o CI. No crea ni registra el entrypoint: lo
+invoca después de que el ambiente instala el paquete.
+
+## 7. Conclusiones
 
 Un ambiente virtual evita que las dependencias de un proyecto alteren las de
 otro. En Machine Learning esto es especialmente útil porque versiones de
@@ -146,6 +184,9 @@ evitar mezclar gestores en el mismo ambiente.
 - [uv: proyectos y dependencias](https://docs.astral.sh/uv/guides/projects/)
 - [DataCamp: Python Poetry](https://www.datacamp.com/tutorial/python-poetry)
 - [Poetry: documentación](https://python-poetry.org/docs/)
+- [PyPA: especificación de entry points](https://packaging.python.org/en/latest/specifications/entry-points/)
+- [PyPA: metadatos de `pyproject.toml`](https://packaging.python.org/en/latest/specifications/pyproject-toml/)
+- [DataCamp: Makefile y GitHub Actions](https://www.datacamp.com/tutorial/makefile-github-actions-tutorial)
 
 ## Entregables
 

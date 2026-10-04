@@ -14,6 +14,7 @@ dependencies = [
 ]
 
 [project.scripts]
+# Comando de consola (entry point) para ejecutar el pipeline instalado.
 taller2-pipeline = "taller2_ml.pipeline:main"
 
 [tool.setuptools]
