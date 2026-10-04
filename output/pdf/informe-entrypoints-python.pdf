@@ -1,199 +1,544 @@
-%PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%PDF-1.3
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 6 0 R
+/PageMode /UseNone
+/Pages 2 0 R
+/Type /Catalog
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Count 4
+/Kids [ 3 0 R 10 0 R 12 0 R 14 0 R ]
+/Type /Pages
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Contents 4 0 R
+/MediaBox [ 0 0 612 792 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ 28 0 R ]
 >>
 endobj
 4 0 obj
-<<
-/BaseFont /Courier-Bold /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
->>
+[ 26 0 R 27 0 R ]
 endobj
 5 0 obj
 <<
-/Contents 20 0 R /MediaBox [ 0 0 612 792 ] /Parent 19 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/F1 6 0 R
+/F1-0 24 0 R
+/F2 7 0 R
+/F2-0 25 0 R
+/F3 8 0 R
+/F4 9 0 R
 >>
 endobj
 6 0 obj
 <<
-/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 7 0 obj
 <<
-/Contents 21 0 R /MediaBox [ 0 0 612 792 ] /Parent 19 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 8 0 obj
 <<
-/Contents 22 0 R /MediaBox [ 0 0 612 792 ] /Parent 19 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/BaseFont /Courier-Bold
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 9 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://packaging.python.org/en/latest/specifications/entry-points/)
->> /Border [ 0 0 0 ] /Rect [ 54.96 331.96 181.24 342.96 ] /Subtype /Link /Type /Annot
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 10 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://packaging.python.org/en/latest/specifications/pyproject-toml/)
->> /Border [ 0 0 0 ] /Rect [ 54.96 314.96 188.792 325.96 ] /Subtype /Link /Type /Annot
+/Contents 11 0 R
+/MediaBox [ 0 0 612 792 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
 >>
 endobj
 11 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://docs.astral.sh/uv/concepts/projects/config/)
->> /Border [ 0 0 0 ] /Rect [ 54.96 297.96 198.136 308.96 ] /Subtype /Link /Type /Annot
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1972
 >>
+stream
+Gatm;D3*C1&H9DY@as\=D:P)fR(QD0%pY1`m?LQVkbP4_<@/QO]d-@D5S*+.r/I7,K\()8&DDgtp<<=%1Gb)/Yjc/gs%s-mgCu\eCp4qI0#4?;_K5eVl.*6n'"FWFHU%WsTWS_L[)0VQ0YY(A*dk`FJ-I:k_!cFiKs'SOI&S/"Qs=@3%euj#m"VoF@_&r5]0L%#D*%aGV-PnbEiBi,F_J0c%mrqIHJ0;HqI=IE3WPq9dm)\"@FTZ&[WcdS]Qj_1H^Huu[d/q>HZXnUEP(Fs.bEn37`55>7gG@a::G5s+&9iu@J'PB31U'K\/k5I\&1C'h@BCqnZ_-+T]!7DE*F0XLg1Zl5^`%`K$nf_<sR65b'4rQfc9,o&dALmi]Gb51U*C0D06iAnGrOlkU10n,b#1GW-PY+P-Nne.<-=\1bM7A0"%$c`kZ:?pjc%O<`"2uG!K:CaeLh)q6Z(0YcDgj:.:T,NEDi><ID#<"bgtVJ8:XiD78Rq))#,lmq)Z<cLTCGmf[YJMW]]3183>k.>4'J('`aUG=C9b=Bpd:<B)miUnYQ'L+o>&"((%NMAL9^KS4l:2PV=B(QjYh***sHXHX[F7@]VSM,Za_9+8HI"[6O[i:j^GR`SqY(F:\<)09duPUsYm^p6rU`Q[]=)@bdP6dr\uS4TSPLf1M[^2bZ*)WNo,&A[j)#Df\oUdE?^Lm3#jKP),%Y)sP'J]XpB;HELUf`Hfd#qY0f(GG8Zj#[q=9QGe.\L%''9<LS`Q@P@Yo26\6j]@QVpgel'i)%#!9=bZ)",RCOLri9Z^BZF^`6ePD3>thgHA:UlBAi5n%_A>t*]sa/hPekuNgcD:o[oTQ]6aBoNhn[40h,559@LdmC80C\%r.<Y*ZN!Y1ij)e")Yp'r#2P53!l3!50iG#/.iL**i:J[\D0a7[KhTAO)sh\1%fo`qLAhL;jjS'Y7n27V$><$NM>SrQnIM-F/9ESs.V8108m0P?-MPKOg5B'1_uD"5<AtI':@hVhgU>Aa3W^j6"d%VU@U.$F.U>'Bt"H'Mf2L[c@UZtfpEa]fLdbplu0u`\::fPS.&o_eBi8]?clR^p6RTZ#4GVBMbb_$!rZ$B\$a&F*b-:U-,XVpNo6L!X7@)9J)]Aa=d_jhbcDaP=r2#RT_)6]@l)$RcC!.RAgSM*TNdA#UE@]!\fI^';;EkK\:1C5pl>&u?S1l09D,7[DMC@qDjt%EeM_nF-_luAFB,/IlM=CO!B^fj)-C?m<%:1ic2>CoXCJLtimb4Q'i.:R[7&MY*hf)ncVeR5%KRlU(p0K*/@l<<XOn+j[kb*3'P9&!-!2r@ZWY-qIAOjM]Q&r"lUcpJQ-&h)-Z`G*DF1s)-7[!SZ\F5%`<3A5N>>#o^-nr"TW1%,5QIY>@S??G!*$D_?/Ie,FNolj/nEJbk%r'\61W:ZH6q`2A>n5uam*4,NI!Ne&IR/I16/P@Z8*QfTM%\4*CfN)cN=ie,^&;II-;F'*%]8lAmHk6jD[i-ROMg*VmZ\oQH2qZp1aVeLT/hb-g)X=8c>l*j"DY,VF%/]/GU:)'`6kSA_3nJpPRRB*#+Y7%1I]>-`?7rPHu&P9"W>"AN)%;&\6Ca%"_AS,%m8h-%DUDb$6Mp%B@#C.q8_XGetF65.e1cS10rb--L?DQ!:MfBbb8rdCLO@;Uq-=]/^(]W`Sdl,+saYR)jL__V7d*;6$W.[c7d+>dGN_<Oe:Ejmhjd#X$SRp1a"1HKe*L'<a&M^sn&WTksFeZG1[EE3_PR=&#I?K283@D2!l]D6LfGSE/5WdbY`TS`m)#DJu7$=;um<(%BB\NmRAK0jWSLHSJu)3%unV96&%]G6lYA:A=k7?7?6I)eQ`HZE=Z2%QeI'[h:sVfi2@)iU^1%4?\4ugW,/9o$E.P]cHuA_GYORh%j%6iRdgP!nbc;rSI#3qS9fP]Vb:MnuCn"9oVO%K/[_ndR"u7WXr^%i,J?2Le70@~>
+endstream
 endobj
 12 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://python-poetry.org/docs/cli/)
->> /Border [ 0 0 0 ] /Rect [ 54.96 280.96 194.12 291.96 ] /Subtype /Link /Type /Annot
+/Contents 13 0 R
+/MediaBox [ 0 0 612 792 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
 >>
 endobj
 13 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://docs.conda.io/projects/conda-build/en/stable/resources/define-metadata.html)
->> /Border [ 0 0 0 ] /Rect [ 54.96 263.96 251.952 274.96 ] /Subtype /Link /Type /Annot
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 2372
 >>
+stream
+Gb!SlgJZfd&:N^lqN7R=q!OQp_\UFYKFL?UbW_ghC.i&p6'Q4HZH_g5p>`VdZ9/q8R+rak;A<MCEd.EQdHQsEnF4IWJ$TdG[g=%foYD&GEXR?7,++n<l"'83*ZKgn^e]K?dSU_T^rG5Uj@+%\C6'\1pKe$NLlE'=ittCEPE=`Gh%XhAB?URAZC(!=H_\dmr@e\37H;J`8&4+47\cVhoRbtUesfAfPS3[;a62W`<tG?O!F3@2]RG2.QcCIlNaJ>_]QsdGH^HoCg\lo/HONE>+H4]X7'=q4O+u,+NrcsQ$KAndl,D`K4^>]a]9lh*?CY;mStB;Y_Y'Die)RKe-+=A<E!_2:#m6&5UkhJk9ti5.@lFZf5f["X+(WZ<a9<7t)UZWq0F99!Jg9/7$G7J^p_Vkqi)?ItY/#tN^a_t%IN1g.#a2H6EHr3er_-?4_PJ(*+VTSh,*Njn`52Z!6QGXE-q7tH2NKDnPZdqr%h,DT#CfEDOMc.l%iAQ.VX?k$o&^ae[E?*4lT].p2?20_<\u>C4:W_VLJ-TR$,8S.LNkB;@h[0_OJ_KXRh.f_CK(D<W,dm,0o)n5;71^V.p99EK$/FdVs*)SfY?h]2Y!3m#J1V2T2J4/aF">KBJX6I2MBXOFs+.5@N46T],L>NpA\BY.T9?BO<*smbU@9;3$e,JrsT&%Zk/%oVPc25>alT_f7LUfb!gr;n9\.eLdq5kDOO8BRU!AkgW+S^+iUMrrId7pGD4D:kdKW5U4?"aN_Y%9E*ABJ6!2B#euAf`"U83%$@+*O%'1Sk2F:%H`l6?KcloWSUM)VHXCWsj=c%UE!7=!bKmFFeD\MCZ)d=Y^!.'A+!Q"d=k$Kics2Ii5',`CtXn/tje:4%L`#+1;*TnhGLf]j_/O*_H&P0&^YAgTdi.XmR`Cl%($;;'d+89LW;r2,1cq)<!NRYsQR6_=oCH3(Yj(O@pAU!]2!NYAcY_Rl*D%HpQrVK_?5#E'ceABu+&9(fZW!NMAKkLt_Z>#-D1X/Raj#)]pcd@KO?*"VP'Z5&M=3@C>Nr35oE'3imJ8A/Ert2u'J@79/T,Ia]E$paYL8kNN&KIlmG_tXW/sNcl7^<pD:*haH7>F;=EE=&j\uQ:ZN=:Ed_<-FdQ`B:BM5^P-0FQ]?i(OKDF]0l7Tu^`o4"THWQ(l6F[[b/=s5OT/M;o2+J!S#X$`X]*3fKbM&A7`]lWe!JQ-&5FQSW3N<=3Vh-4>YkP4<QBHP9srLm#(0hBhi7':)6UfAaE7Ylnl6'BRnD,Ep3:As_)h6*b//^)*189<+7-(#G1XV5fGOd#$aJ(o?FeEtL('aB87Wnu#5$Q;1!`DR&bIi!=C>lLh9LFd`i\Z#%U\e](4TB$J.gE"OO=Doo/i<M0Sj)Zts4)^FV_Q?<faP9F1"Z]8h&'gVaP8$-N"!_\5seP7g3kQgf^f>=[Z&jpM:*6N*CZ%%!XJ4h1"dfU4ZkWf^_1[H!DhUPLmBeZnnhk0CRBlg`0'2ii:IP?&\.eF#?A\k=)N>.4YQ;>g<7E].h1c.0b[=l@fB8Bpa+hpZR8;t_[K5XR*\o<R1V,#::7OsEJN>.i,3TRJ3EL#&<jn'G5[07nKU"M3Lp*&(bDIF6bA7r5Ud2U^=`40M!j6#hBZ.B%pT;+:?EDnu<Gm[m48a%QpYsDl0g'5r"PHkt7f@&'$G?,-mn[I-[6h_'sff)%bnWkfnEbmYQ%\4;h&p.Z7).H_l=l:(4aOotj^KrS!]G:5F2h&S%g-<T3,9,\Z]/eJ`DtTF5./LO*6NHl(Vg$DP,0.+'j.i-F:%k*F_<t7p&!b%L'I#W.]_D%Ni(sCm[L%-P?tCAPW8Ni-@7Ot^XBS2QNRW-"9EB?XnINL=He8AR_Um8P7D"-:*h\p&fbuhLQns`-nTb;0([DpugD[O7>BaVk[6cm9U)e:'3Vbtg$+DE[$K:ab+_n("%TK".mj@)J#%D-_#\ns3**pU$^4:#c`DYc[@u%J2e/.0I+ci4HgeWA9ND2:f`T0aQEqn1@])r3f\E[HB*)Sjij>&TaCgK:,HBSa[bk?!d!1_PL6iAk!aM@G%>r<=7[mr9m:sh0*j3$TRE8&DX#G.:QE?<@A1Yp&XG5(PeIIY>gaefLGJ\UqTT$g*jPh),^ZEJHFNXdHfP61L6>C#A5b]>QugTYgK(c-AR%#_S6^e=FO'Q!O!gpdqI`U5`mg8??K80.8=Y86!PD/NO=e3h^U7;&`_KH!MMg/P=:)ke;pG;4]:U@aB`iH,<j\<OO?MZ+%H`S-%I=6kh"*Nn3$fE9s$Q-5XJ8#lQ!mUj#D,0A)\hP2[@bql#F1c1:/VAHAU\eZ0,Of7h-7)c:Yh:s(NjL!g+dp[U46t*f`IB`GfIr\.P~>
+endstream
 endobj
 14 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://docs.conda.io/projects/conda/en/stable/user-guide/tasks/manage-environments.html)
->> /Border [ 0 0 0 ] /Rect [ 54.96 246.96 181.688 257.96 ] /Subtype /Link /Type /Annot
+/Annots [ 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R ]
+/Contents 22 0 R
+/MediaBox [ 0 0 612 792 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
 >>
 endobj
 15 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.datacamp.com/tutorial/makefile-github-actions-tutorial)
->> /Border [ 0 0 0 ] /Rect [ 54.96 229.96 305.288 240.96 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057packaging\056python\056org\057en\057latest\057specifications\057entry\055points\057)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 54.96 331.96 181.24 342.96 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 16 0 obj
 <<
-/Annots [ 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R ] /Contents 23 0 R /MediaBox [ 0 0 612 792 ] /Parent 19 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 
-  /Trans <<
-
->> /Type /Page
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057packaging\056python\056org\057en\057latest\057specifications\057pyproject\055toml\057)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 54.96 314.96 188.792 325.96 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 17 0 obj
 <<
-/PageMode /UseNone /Pages 19 0 R /Type /Catalog
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057docs\056astral\056sh\057uv\057concepts\057projects\057config\057)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 54.96 297.96 198.136 308.96 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 18 0 obj
 <<
-/Author (Taller 2 - Machine Learning Engineering) /CreationDate (D:20261004124457-06'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261004124457-06'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (Investigaci\363n aplicada sobre entry points, gestores de paquetes y Makefile) /Title (Entry points de Python y pipeline scikit-learn) /Trapped /False
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057python\055poetry\056org\057docs\057cli\057)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 54.96 280.96 194.12 291.96 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 19 0 obj
 <<
-/Count 4 /Kids [ 5 0 R 7 0 R 8 0 R 16 0 R ] /Type /Pages
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057docs\056conda\056io\057projects\057conda\055build\057en\057stable\057resources\057define\055metadata\056html)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 54.96 263.96 251.952 274.96 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 20 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1599
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057docs\056conda\056io\057projects\057conda\057en\057stable\057user\055guide\057tasks\057manage\055environments\056html)
 >>
-stream
-Gb!Sjhc&Pn&:WfGfZ3UgN$SF@T5rEd>Tl@'+55[BfLeosfKS'K)Q&"3GAZ"m,UpXd]sNtplq"2-Vqpgr'aKI8hYbAdJ<)KGrks?qR*C1DQ34H$Lh6m!%rUm[NOA(STa+mPE'@TG::XC*Y3iVQ?On^M4"^br4"^mCY_4#(mQnBCaN362^h!q6O6EuN0`Q+-)HUV"JRK!)d6m0l')3^LDBGA&^($AA3h55"DS'?CLA/_V02(pe+D@9#E]Q7RI(GbQ7PK`q-KcaXE"(?Jbg*@<E'6D\D1$Xn3W07r%l!lGqqp=Ei6p^.SsYFt*#k(NLi1Q`gjihFA8ZJBT$ZCM#Yst?(GL`P\m.Ubl`@7X]ufjo;/j4O^Z='PE'1Q>%1c1GJi4\or\=_N:<:@sZqRuU7ed,]Lfo[^\.WE20R-a&(8Zu_SaG)J`-DQf$jp:=<+cOLEu""2>p#n8Q5QbYb>kfF<@o`"npAT+;<GtM2@^4*JTEgiiR7.aXP'S7?WX8IM)AP\7lAntZJLIli3+?p)8?^ZBK86CBt6(=V"YR@RrR#?ZAgRsYj1@XYJ4d8Y;J]j[l)Z1Z%7_FKA<g'`C2W&\\I*DHuaBoM;TQr:FF4uLaG[\.%5$0r&#D5&)NWE"rO6?K9S_[_J[_*Qhah(FoLt?6dA>127+7lj=N?OYf%#W&ODc!D9F>c6YJ@$7C8T^*hm3O=5_O<*4ls?33Mq<:1SrM<.ul7,(Ud<Wg<B?e^(N(=m;qe=f`o?80q6816bR6$4U<&Xk@X2`%boFJdKasoh\*n6n.>9SsN*(HS"W.-;cQ3a.ACiHI7WWea]F>3Z-hiW#c]>\W2$;^+@(-N$%.JB8\[>/!*1\0U+$)oTn]0:9/=iKlSa88u(Bfr`W$#;7Cfip#2-*A%(Ud8r->fHn6\K5dKCu@i4IEi%rNF'82YV8&@+u+,p=td%Z&r6dJ#*M):-<s(+prrm!^DD$]Kg0&NS'l1j<6o+aron\t<rj'T"`"q:6JIMb@h.8*IJU>-@R&f%=M*99=1)TaPP4!**=fkQqPWY@sogpYi@.be90XKa0<TMVaO?`%%C%[$]4(SsG>@Bo:$EMJtoX#e-:O#R1!RF7([>G9YK9r"!=:`n[Vr_)g,[8^;"du%.j2^ClJLTl(cK^2l?:L(e/SgADA<AF'98[[C&aDr9C3MsCLk3H",$Ie*1Xt@-)p)/T[4tj-@d0WM*Ji2dL:02YJlcMBD:t34KmS,IS@oR_'Ij&='/OeLMIaQJdfY<<.SAcmCdO^qO;&(]W?\6tMVI-n];"Jf%cmY;;YU^urgBDGN[XsfD?.[,?BDM%6TZj7[=o3-ij4a%*^,N:^/@KunmX6u$GBZ4_L-Ir(d0-2u=Tml-pI8j1IV=GI/o"G>?\&FSj^6O6%b&fGp\b:5U=sOp(Qjhi=%u$B/T.)ok_@a3Tig,Lq'V$!QO>*;Vs+9+S4%#^fMK6Ha@<_^91(](IIE)da/kgJh>_$`I]r;Lnj8TSD[,uo-$&%/8g2EF"jYQ`J8PirWWj9kY2E=KLnMX;s*k]uWCm%c<Kq^9_srnD<$WM7(c3dbF'1k&+hrM'D8].CgUQ9^Kb+an!L&qAf)~>endstream
+/Border [ 0 0 0 ]
+/Rect [ 54.96 246.96 181.688 257.96 ]
+/Subtype /Link
+/Type /Annot
+>>
 endobj
 21 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1972
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057www\056datacamp\056com\057tutorial\057makefile\055github\055actions\055tutorial)
 >>
-stream
-Gatm;D3*C1&H9DY@as\=D:P)fR(QD0%pY1`m?LQVkbP4_<@/QO]d-@D5S*+.r/I7,K\()8&DDgtp<<=%1Gb)/Yjc/gs%s-mgCu\eCp4qI0#4?;_K5eVl.*6n'"FWFHU%WsTWS_L[)0VQ0YY(A*dk`FJ-I:k_!cFiKs'SOI&S/"Qs=@3%euj#m"VoF@_&r5]0L%#D*%aGV-PnbEiBi,F_J0c%mrqIHJ0;HqI=IE3WPq9dm)\"@FTZ&[WcdS]Qj_1H^Huu[d/q>HZXnUEP(Fs.bEn37`55>7gG@a::G5s+&9iu@J'PB31U'K\/k5I\&1C'h@BCqnZ_-+T]!7DE*F0XLg1Zl5^`%`K$nf_<sR65b'4rQfc9,o&dALmi]Gb51U*C0D06iAnGrOlkU10n,b#1GW-PY+P-Nne.<-=\1bM7A0"%$c`kZ:?pjc%O<`"2uG!K:CaeLh)q6Z(0YcDgj:.:T,NEDi><ID#<"bgtVJ8:XiD78Rq))#,lmq)Z<cLTCGmf[YJMW]]3183>k.>4'J('`aUG=C9b=Bpd:<B)miUnYQ'L+o>&"((%NMAL9^KS4l:2PV=B(QjYh***sHXHX[F7@]VSM,Za_9+8HI"[6O[i:j^GR`SqY(F:\<)09duPUsYm^p6rU`Q[]=)@bdP6dr\uS4TSPLf1M[^2bZ*)WNo,&A[j)#Df\oUdE?^Lm3#jKP),%Y)sP'J]XpB;HELUf`Hfd#qY0f(GG8Zj#[q=9QGe.\L%''9<LS`Q@P@Yo26\6j]@QVpgel'i)%#!9=bZ)",RCOLri9Z^BZF^`6ePD3>thgHA:UlBAi5n%_A>t*]sa/hPekuNgcD:o[oTQ]6aBoNhn[40h,559@LdmC80C\%r.<Y*ZN!Y1ij)e")Yp'r#2P53!l3!50iG#/.iL**i:J[\D0a7[KhTAO)sh\1%fo`qLAhL;jjS'Y7n27V$><$NM>SrQnIM-F/9ESs.V8108m0P?-MPKOg5B'1_uD"5<AtI':@hVhgU>Aa3W^j6"d%VU@U.$F.U>'Bt"H'Mf2L[c@UZtfpEa]fLdbplu0u`\::fPS.&o_eBi8]?clR^p6RTZ#4GVBMbb_$!rZ$B\$a&F*b-:U-,XVpNo6L!X7@)9J)]Aa=d_jhbcDaP=r2#RT_)6]@l)$RcC!.RAgSM*TNdA#UE@]!\fI^';;EkK\:1C5pl>&u?S1l09D,7[DMC@qDjt%EeM_nF-_luAFB,/IlM=CO!B^fj)-C?m<%:1ic2>CoXCJLtimb4Q'i.:R[7&MY*hf)ncVeR5%KRlU(p0K*/@l<<XOn+j[kb*3'P9&!-!2r@ZWY-qIAOjM]Q&r"lUcpJQ-&h)-Z`G*DF1s)-7[!SZ\F5%`<3A5N>>#o^-nr"TW1%,5QIY>@S??G!*$D_?/Ie,FNolj/nEJbk%r'\61W:ZH6q`2A>n5uam*4,NI!Ne&IR/I16/P@Z8*QfTM%\4*CfN)cN=ie,^&;II-;F'*%]8lAmHk6jD[i-ROMg*VmZ\oQH2qZp1aVeLT/hb-g)X=8c>l*j"DY,VF%/]/GU:)'`6kSA_3nJpPRRB*#+Y7%1I]>-`?7rPHu&P9"W>"AN)%;&\6Ca%"_AS,%m8h-%DUDb$6Mp%B@#C.q8_XGetF65.e1cS10rb--L?DQ!:MfBbb8rdCLO@;Uq-=]/^(]W`Sdl,+saYR)jL__V7d*;6$W.[c7d+>dGN_<Oe:Ejmhjd#X$SRp1a"1HKe*L'<a&M^sn&WTksFeZG1[EE3_PR=&#I?K283@D2!l]D6LfGSE/5WdbY`TS`m)#DJu7$=;um<(%BB\NmRAK0jWSLHSJu)3%unV96&%]G6lYA:A=k7?7?6I)eQ`HZE=Z2%QeI'[h:sVfi2@)iU^1%4?\4ugW,/9o$E.P]cHuA_GYORh%j%6iRdgP!nbc;rSI#3qS9fP]Vb:MnuCn"9oVO%K/[_ndR"u7WXr^%i,J?2Le70@~>endstream
+/Border [ 0 0 0 ]
+/Rect [ 54.96 229.96 305.288 240.96 ]
+/Subtype /Link
+/Type /Annot
+>>
 endobj
 22 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 2372
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 2199
 >>
 stream
-Gb!SlgJZfd&:N^lqN7R=q!OQp_\UFYKFL?UbW_ghC.i&p6'Q4HZH_g5p>`VdZ9/q8R+rak;A<MCEd.EQdHQsEnF4IWJ$TdG[g=%foYD&GEXR?7,++n<l"'83*ZKgn^e]K?dSU_T^rG5Uj@+%\C6'\1pKe$NLlE'=ittCEPE=`Gh%XhAB?URAZC(!=H_\dmr@e\37H;J`8&4+47\cVhoRbtUesfAfPS3[;a62W`<tG?O!F3@2]RG2.QcCIlNaJ>_]QsdGH^HoCg\lo/HONE>+H4]X7'=q4O+u,+NrcsQ$KAndl,D`K4^>]a]9lh*?CY;mStB;Y_Y'Die)RKe-+=A<E!_2:#m6&5UkhJk9ti5.@lFZf5f["X+(WZ<a9<7t)UZWq0F99!Jg9/7$G7J^p_Vkqi)?ItY/#tN^a_t%IN1g.#a2H6EHr3er_-?4_PJ(*+VTSh,*Njn`52Z!6QGXE-q7tH2NKDnPZdqr%h,DT#CfEDOMc.l%iAQ.VX?k$o&^ae[E?*4lT].p2?20_<\u>C4:W_VLJ-TR$,8S.LNkB;@h[0_OJ_KXRh.f_CK(D<W,dm,0o)n5;71^V.p99EK$/FdVs*)SfY?h]2Y!3m#J1V2T2J4/aF">KBJX6I2MBXOFs+.5@N46T],L>NpA\BY.T9?BO<*smbU@9;3$e,JrsT&%Zk/%oVPc25>alT_f7LUfb!gr;n9\.eLdq5kDOO8BRU!AkgW+S^+iUMrrId7pGD4D:kdKW5U4?"aN_Y%9E*ABJ6!2B#euAf`"U83%$@+*O%'1Sk2F:%H`l6?KcloWSUM)VHXCWsj=c%UE!7=!bKmFFeD\MCZ)d=Y^!.'A+!Q"d=k$Kics2Ii5',`CtXn/tje:4%L`#+1;*TnhGLf]j_/O*_H&P0&^YAgTdi.XmR`Cl%($;;'d+89LW;r2,1cq)<!NRYsQR6_=oCH3(Yj(O@pAU!]2!NYAcY_Rl*D%HpQrVK_?5#E'ceABu+&9(fZW!NMAKkLt_Z>#-D1X/Raj#)]pcd@KO?*"VP'Z5&M=3@C>Nr35oE'3imJ8A/Ert2u'J@79/T,Ia]E$paYL8kNN&KIlmG_tXW/sNcl7^<pD:*haH7>F;=EE=&j\uQ:ZN=:Ed_<-FdQ`B:BM5^P-0FQ]?i(OKDF]0l7Tu^`o4"THWQ(l6F[[b/=s5OT/M;o2+J!S#X$`X]*3fKbM&A7`]lWe!JQ-&5FQSW3N<=3Vh-4>YkP4<QBHP9srLm#(0hBhi7':)6UfAaE7Ylnl6'BRnD,Ep3:As_)h6*b//^)*189<+7-(#G1XV5fGOd#$aJ(o?FeEtL('aB87Wnu#5$Q;1!`DR&bIi!=C>lLh9LFd`i\Z#%U\e](4TB$J.gE"OO=Doo/i<M0Sj)Zts4)^FV_Q?<faP9F1"Z]8h&'gVaP8$-N"!_\5seP7g3kQgf^f>=[Z&jpM:*6N*CZ%%!XJ4h1"dfU4ZkWf^_1[H!DhUPLmBeZnnhk0CRBlg`0'2ii:IP?&\.eF#?A\k=)N>.4YQ;>g<7E].h1c.0b[=l@fB8Bpa+hpZR8;t_[K5XR*\o<R1V,#::7OsEJN>.i,3TRJ3EL#&<jn'G5[07nKU"M3Lp*&(bDIF6bA7r5Ud2U^=`40M!j6#hBZ.B%pT;+:?EDnu<Gm[m48a%QpYsDl0g'5r"PHkt7f@&'$G?,-mn[I-[6h_'sff)%bnWkfnEbmYQ%\4;h&p.Z7).H_l=l:(4aOotj^KrS!]G:5F2h&S%g-<T3,9,\Z]/eJ`DtTF5./LO*6NHl(Vg$DP,0.+'j.i-F:%k*F_<t7p&!b%L'I#W.]_D%Ni(sCm[L%-P?tCAPW8Ni-@7Ot^XBS2QNRW-"9EB?XnINL=He8AR_Um8P7D"-:*h\p&fbuhLQns`-nTb;0([DpugD[O7>BaVk[6cm9U)e:'3Vbtg$+DE[$K:ab+_n("%TK".mj@)J#%D-_#\ns3**pU$^4:#c`DYc[@u%J2e/.0I+ci4HgeWA9ND2:f`T0aQEqn1@])r3f\E[HB*)Sjij>&TaCgK:,HBSa[bk?!d!1_PL6iAk!aM@G%>r<=7[mr9m:sh0*j3$TRE8&DX#G.:QE?<@A1Yp&XG5(PeIIY>gaefLGJ\UqTT$g*jPh),^ZEJHFNXdHfP61L6>C#A5b]>QugTYgK(c-AR%#_S6^e=FO'Q!O!gpdqI`U5`mg8??K80.8=Y86!PD/NO=e3h^U7;&`_KH!MMg/P=:)ke;pG;4]:U@aB`iH,<j\<OO?MZ+%H`S-%I=6kh"*Nn3$fE9s$Q-5XJ8#lQ!mUj#D,0A)\hP2[@bql#F1c1:/VAHAU\eZ0,Of7h-7)c:Yh:s(NjL!g+dp[U46t*f`IB`GfIr\.P~>endstream
+Gatm<D/\/e&H88.EPO7N.i^u%p#bU>QFa3M/9Ol-6a6ds,LNJG8Q7,f7>Cd9h,0mj-ZP]!7M&edbMC(JkDjcW^r8OaHmT$402"9PjakH[\H:*$HruuWCq9:Oc\_I^Gp,.e'`6YfBBi6%f8&tLHVOiRpIapbB,X)N"Ah>pEX*uV7h-X7N*$:H'9M!`0@Y!Pa!2(S5P7/m"t/mB'FO\o2L%Bl?>PEo$J8],T:X?RJH6_l/3YZC]K:bbn]BPGfCQ?#5Jcn/Q7kdPIusOGGoSU]TLPPQUIGat8,"krg_R5(:c^[BSpu@2]D:.N"5q(E0ftquc/?Loe(O9efgr6Q!Zr;2O).(;3$F0M."!'a,F<BPkW!:^Rk,:'U_7\K[B-]!H,rWtfqIRM17*[prrUDbEN-<9'tCuK=LXHY+)p+G/=]lYMa+c@?"Ki4J$e/t11Aho)om3._a>[[EQ!k7!3+q"IWS[^RIu3B@#R^*n>9_';KrQGgjsO7MkiRn//p1ckA@'$Z@Q6T:&HSE=YA=q4@Bkf!I]*H4Cf42g0lUC@JJZ`pAlQ-YRZp';l=+iG<>qMi&\$a\W8/R_Z%SrJ-"Y%\!;J3'r"B%NF5%X?;#C"W[I"u8sZG-P>'I3?HY_pU3>IkBZ,`U.]B_UnU/1Z,Uj'ggRtbtqe%TMXqHlO"1na=]"AVYU/ZN?[(;MoUJO<-lU5BP.#PI-Zpos7(TGbXM&Pp7=cqgUZN^H6ZfXu/#t-%=,-!l%$REn_H\4r[N$T_NAQTrLBi[1&`^%URQ+,B1#k4hA=Wt2)WkHW_6pOs[lbMMgq5d30b.80Ub$=p>)esZKd]?W7I;llMQ-ogR<MO-pJ4b<*-1905EbfT+$P.j9Fo8Ac`/oOpMJ9rJcO^SJ,fmUJ$PZ'[rJE9IYJB==%BAqC([3fRLo$n<m.0Nrs04_&Em=Bs26Jr17oGP3?,K2kA7Ku7#U5;@bS^Z%CWpBKfO?)B26lkh7=#+YneJmGoX*#1Sr7=Aqii'J4c)*)BAEGliTILao*,l_7c=rP_k31saSpStkZ-"1.XNU[Ts`#tR$:(0S]nRqCM0(D$:3Kc1Z?XOR?3ce12/K>n7(XfQAKXOg:dk@!Z#!YrbjLRST;TS`SN[UMV0GFRN5@1-1e4nXLY\8%Q2SU)bfsi'u+K\<DqR^M>=DChGJ_:QjfJ/Qm-e;]seTtmlc>gDPj^?\_,nn>q,4/s&Y=EeceQtaL4OQY11drm(cih(?CIr>N63O"6MYF+2RItra1/]5k[p'gg;m,TCC)9WXMN&b7;."A+"T0?1=cqF%+b"o>AlKGN8\YW4?g4\G=Os9HuAAkqEVm'o_[3VL'5YhEQJfnp#9T5,H\OJIe#S=+^*/\X#[L/)m9P2)#HGEK$3KWj>1ZD"BO2J\bR%#P6tB92f:VND(-:kfK>$HHQ$W..[P2?t"\,6ueW'!C[Tq[406$e`ii%WlsR2=Qf"&UTA27It3SN6W<3r_,'2q<695Qc6aPG=cI!a:!=R<4^,>l4EO]oT!`'S&KT>$^S?C*Z^oH3UXQ+RCJ[s8%HdtI';f(Vi)<[KFIpF@2S*\X>12+#HBI>D!Au9o(=d23oj'^qC<s$qG$p/LYK`WuZoLEn)N\'EhRB?oFngjK_`iM[N3'8pBgti5"W_nn/a?h!c#s^.<;<-//c']/%mA:N:m_)`FBqW)1?p9Zl0D9sl<p4aVGX;NZUiH?e:+ckfRW%2*T*0kM<WcG<8>++*(m=HBQ#6%:m*(RMBuNZH`nD@VY9;8dp4JW0U+2P?7EGtH1l=2ZZNoUPgV!=YSs"0\o3-t)gt)+Fk^o/s67>#KV`ZOYR,$QrJNgk6>B^9cf7[U:ut'R@p6SO`*8/VZ%-[2j*l7)p\lh+]kXC#=1\3%Pq=&hp==>lkqdHlQc.LZi3(hSEV+)TqgWi,Qin2F':=d$<`_&u<p0j)>R-JF?(9btD!1;TKid)>l9Pn;%Q<eOpAngR@-7OcKo%>hW)\#klE%XM*b]u/(;N]M)9"ZBl!O(V:I#9p2$DN2S.b%67eI1;Tso)j_$-N(`PH,TjllnSb#MK*.18^ed>0#o;gk!$I=LF9_i$.&:,(Lgiejt_ng;hcUmpZ6crdYrB[Ofgp1n^;%2;hKWQC4)Z<SHe0t\YZ*2$U#BNLJ-ag8k+oBpA>-bWjb7S@^KB0fIGG+%l6oK)Yo>)'`j!421E#Q~>
+endstream
 endobj
 23 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 2199
+/Author (Taller 2 \055 Machine Learning Engineering)
+/CreationDate (D\07220261004124457\05506\04700\047)
+/Creator (\050unspecified\051)
+/Keywords ()
+/ModDate (D\07220261004124457\05506\04700\047)
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Subject (Investigaci\363n aplicada sobre entry points\054 gestores de paquetes y Makefile)
+/Title (Entry points de Python y pipeline scikit\055learn)
+/Trapped /False
+>>
+endobj
+24 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+25 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+26 0 obj
+<<
+/Length 3781
 >>
 stream
-Gatm<D/\/e&H88.EPO7N.i^u%p#bU>QFa3M/9Ol-6a6ds,LNJG8Q7,f7>Cd9h,0mj-ZP]!7M&edbMC(JkDjcW^r8OaHmT$402"9PjakH[\H:*$HruuWCq9:Oc\_I^Gp,.e'`6YfBBi6%f8&tLHVOiRpIapbB,X)N"Ah>pEX*uV7h-X7N*$:H'9M!`0@Y!Pa!2(S5P7/m"t/mB'FO\o2L%Bl?>PEo$J8],T:X?RJH6_l/3YZC]K:bbn]BPGfCQ?#5Jcn/Q7kdPIusOGGoSU]TLPPQUIGat8,"krg_R5(:c^[BSpu@2]D:.N"5q(E0ftquc/?Loe(O9efgr6Q!Zr;2O).(;3$F0M."!'a,F<BPkW!:^Rk,:'U_7\K[B-]!H,rWtfqIRM17*[prrUDbEN-<9'tCuK=LXHY+)p+G/=]lYMa+c@?"Ki4J$e/t11Aho)om3._a>[[EQ!k7!3+q"IWS[^RIu3B@#R^*n>9_';KrQGgjsO7MkiRn//p1ckA@'$Z@Q6T:&HSE=YA=q4@Bkf!I]*H4Cf42g0lUC@JJZ`pAlQ-YRZp';l=+iG<>qMi&\$a\W8/R_Z%SrJ-"Y%\!;J3'r"B%NF5%X?;#C"W[I"u8sZG-P>'I3?HY_pU3>IkBZ,`U.]B_UnU/1Z,Uj'ggRtbtqe%TMXqHlO"1na=]"AVYU/ZN?[(;MoUJO<-lU5BP.#PI-Zpos7(TGbXM&Pp7=cqgUZN^H6ZfXu/#t-%=,-!l%$REn_H\4r[N$T_NAQTrLBi[1&`^%URQ+,B1#k4hA=Wt2)WkHW_6pOs[lbMMgq5d30b.80Ub$=p>)esZKd]?W7I;llMQ-ogR<MO-pJ4b<*-1905EbfT+$P.j9Fo8Ac`/oOpMJ9rJcO^SJ,fmUJ$PZ'[rJE9IYJB==%BAqC([3fRLo$n<m.0Nrs04_&Em=Bs26Jr17oGP3?,K2kA7Ku7#U5;@bS^Z%CWpBKfO?)B26lkh7=#+YneJmGoX*#1Sr7=Aqii'J4c)*)BAEGliTILao*,l_7c=rP_k31saSpStkZ-"1.XNU[Ts`#tR$:(0S]nRqCM0(D$:3Kc1Z?XOR?3ce12/K>n7(XfQAKXOg:dk@!Z#!YrbjLRST;TS`SN[UMV0GFRN5@1-1e4nXLY\8%Q2SU)bfsi'u+K\<DqR^M>=DChGJ_:QjfJ/Qm-e;]seTtmlc>gDPj^?\_,nn>q,4/s&Y=EeceQtaL4OQY11drm(cih(?CIr>N63O"6MYF+2RItra1/]5k[p'gg;m,TCC)9WXMN&b7;."A+"T0?1=cqF%+b"o>AlKGN8\YW4?g4\G=Os9HuAAkqEVm'o_[3VL'5YhEQJfnp#9T5,H\OJIe#S=+^*/\X#[L/)m9P2)#HGEK$3KWj>1ZD"BO2J\bR%#P6tB92f:VND(-:kfK>$HHQ$W..[P2?t"\,6ueW'!C[Tq[406$e`ii%WlsR2=Qf"&UTA27It3SN6W<3r_,'2q<695Qc6aPG=cI!a:!=R<4^,>l4EO]oT!`'S&KT>$^S?C*Z^oH3UXQ+RCJ[s8%HdtI';f(Vi)<[KFIpF@2S*\X>12+#HBI>D!Au9o(=d23oj'^qC<s$qG$p/LYK`WuZoLEn)N\'EhRB?oFngjK_`iM[N3'8pBgti5"W_nn/a?h!c#s^.<;<-//c']/%mA:N:m_)`FBqW)1?p9Zl0D9sl<p4aVGX;NZUiH?e:+ckfRW%2*T*0kM<WcG<8>++*(m=HBQ#6%:m*(RMBuNZH`nD@VY9;8dp4JW0U+2P?7EGtH1l=2ZZNoUPgV!=YSs"0\o3-t)gt)+Fk^o/s67>#KV`ZOYR,$QrJNgk6>B^9cf7[U:ut'R@p6SO`*8/VZ%-[2j*l7)p\lh+]kXC#=1\3%Pq=&hp==>lkqdHlQc.LZi3(hSEV+)TqgWi,Qin2F':=d$<`_&u<p0j)>R-JF?(9btD!1;TKid)>l9Pn;%Q<eOpAngR@-7OcKo%>hW)\#klE%XM*b]u/(;N]M)9"ZBl!O(V:I#9p2$DN2S.b%67eI1;Tso)j_$-N(`PH,TjllnSb#MK*.18^ed>0#o;gk!$I=LF9_i$.&:,(Lgiejt_ng;hcUmpZ6crdYrB[Ofgp1n^;%2;hKWQC4)Z<SHe0t\YZ*2$U#BNLJ-ag8k+oBpA>-bWjb7S@^KB0fIGG+%l6oK)Yo>)'`j!421E#Q~>endstream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+Q
+q
+1 0 0 1 54.96 692.4 cm
+Q
+q
+1 0 0 1 55.8 536.4 cm
+q
+.07451 .145098 .239216 rg
+n 0 156 500.4 -156 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 20 127 cm
+q
+.031373 .494118 .545098 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (INFORME TECNICO / PYTHON PACKAGING) Tj T* ET
+Q
+Q
+BT 1 0 0 1 516.8 129 Tm  T* ET
+q
+1 0 0 1 20 58 cm
+q
+BT 1 0 0 1 0 35 Tm 31 TL /F2 27 Tf 1 1 1 rg (Entry points) Tj  T* (de Python) Tj T* ET
+Q
+Q
+BT 1 0 0 1 516.8 60 Tm  T* ET
+q
+1 0 0 1 20 19 cm
+q
+.85098 .909804 .94902 rg
+BT 1 0 0 1 0 22 Tm /F1 12 Tf 17 TL -0.006909 Tw (Integraci\363n con un pipeline de scikit-learn y respuestas sobre producci\363n, gestores de) Tj T* 0 Tw (paquetes y Makefile.) Tj T* ET
+Q
+Q
+BT 1 0 0 1 516.8 21 Tm  T* ET
+q
+1 J
+1 j
+.07451 .145098 .239216 RG
+n 0 156 m 500.4 156 l S
+n 0 0 m 500.4 0 l S
+n 0 0 m 0 156 l S
+n 500.4 0 m 500.4 156 l S
+Q
+Q
+Q
+q
+1 0 0 1 54.96 516.4 cm
+Q
+q
+1 0 0 1 54.96 506.4 cm
+q
+.031373 .494118 .545098 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (TALLER 2 | MACHINE LEARNING ENGINEERING) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.96 478.4 cm
+q
+.07451 .145098 .239216 rg
+BT 1 0 0 1 0 4 Tm /F2 19 Tf 23 TL (Proyecto: pipeline Iris con scikit-learn) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.96 442.2 cm
+q
+BT 1 0 0 1 0 17 Tm 13.1 TL /F1 9.2 Tf .141176 .203922 .278431 rg (Actividad preparada para contabilizar asistencia a la sesi\363n del ) Tj /F2 9.2 Tf (02/10/2026) Tj /F1 9.2 Tf (. El informe combina una investigaci\363n breve de) Tj T* (la especificaci\363n de Python Packaging con su aplicaci\363n al c\363digo de este repositorio.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.96 431.2 cm
+Q
+q
+1 0 0 1 61.2 329 cm
+q
+.917647 .952941 .960784 rg
+n 0 102.2 489.6 -25 re f*
+.968627 .980392 .988235 rg
+n 0 77.2 489.6 -77.2 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 13 83.2 cm
+q
+.031373 .494118 .545098 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (TRABAJO REALIZADO) Tj T* ET
+Q
+Q
+q
+1 0 0 1 13 42 cm
+q
+BT 1 0 0 1 0 17 Tm 13.1 TL /F1 9.2 Tf .141176 .203922 .278431 rg (Se revis\363 la declaraci\363n del comando ) Tj /F3 9.2 Tf (taller2-pipeline) Tj /F1 9.2 Tf ( en ) Tj /F3 9.2 Tf (pyproject.toml) Tj /F1 9.2 Tf (, se agrego un Makefile para) Tj T* (instalar el paquete y ejecutar ese comando, y se documento el uso con pip, uv, Poetry y Conda.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 13 6 cm
+q
+.388235 .443137 .517647 rg
+BT 1 0 0 1 0 13 Tm /F1 8 Tf 10.5 TL (Hallazgo: el proyecto ya inclu\355a la declaraci\363n del entrypoint de consola; la adaptaci\363n hizo expl\355cito su uso desde la) Tj T* (documentaci\363n y el flujo de Make.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.839216 .878431 .909804 RG
+.7 w
+n 0 102.2 m 489.6 102.2 l S
+n 0 0 m 489.6 0 l S
+n 0 0 m 0 102.2 l S
+n 489.6 0 m 489.6 102.2 l S
+Q
+Q
+Q
+q
+1 0 0 1 54.96 309 cm
+Q
+q
+1 0 0 1 54.96 299 cm
+q
+.031373 .494118 .545098 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (EN ESTE INFORME) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.96 279.9 cm
+q
+BT 1 0 0 1 0 3.9 Tm /F1 10 Tf 12 TL .141176 .203922 .278431 rg /F1 10 Tf 12 TL .141176 .203922 .278431 rg (\177) Tj ET
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 3.9 Tm /F1 9.2 Tf 13.1 TL 9.5 0 Td (Qu\351 publica un entry point y c\363mo se ejecuta el pipeline instalado.) Tj T* -9.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 54.96 260.8 cm
+q
+BT 1 0 0 1 0 3.9 Tm /F1 10 Tf 12 TL .141176 .203922 .278431 rg /F1 10 Tf 12 TL .141176 .203922 .278431 rg (\177) Tj ET
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 3.9 Tm /F1 9.2 Tf 13.1 TL 9.5 0 Td (Usos operativos en producci\363n y compatibilidad con gestores de paquetes.) Tj T* -9.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 54.96 241.7 cm
+q
+BT 1 0 0 1 0 3.9 Tm /F1 10 Tf 12 TL .141176 .203922 .278431 rg /F1 10 Tf 12 TL .141176 .203922 .278431 rg (\177) Tj ET
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 3.9 Tm /F1 9.2 Tf 13.1 TL 9.5 0 Td (Relaci\363n pr\341ctica entre el comando Python y los objetivos de Makefile.) Tj T* -9.5 0 Td ET
+Q
+Q
+ 
+
+Q
+
+endstream
+endobj
+27 0 obj
+<<
+/Length 561
+>>
+stream
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.94902 0.968627 0.972549 rg
+0.839216 0.878431 0.909804 RG
+0.7 w
+n
+59 83 m
+553 83 l
+555.764 83 558 85.236 558 88 c
+558 134 l
+558 136.764 555.764 139 553 139 c
+59 139 l
+56.236 139 54 136.764 54 134 c
+54 88 l
+54 85.236 56.236 83 59 83 c
+h
+B*
+0.031373 0.494118 0.545098 rg
+BT
+/F2-0 8.5 Tf
+10.2 TL
+ET
+BT
+1 0 0 1 67 120 Tm
+(REPOSITORIO DEL PROYECTO) Tj
+T*
+ET
+0.031373 0.494118 0.545098 rg
+BT
+/F1-0 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 67 100 Tm
+(https\072\057\057github\056com\057Hayser8\057Taller2) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+28 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 64 91 404 112 ]
+/Border [ 0 0 0 ]
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057Hayser8\057Taller2)
+>>
+/P 3 0 R
+>>
 endobj
 xref
-0 24
+0 29
 0000000000 65535 f 
-0000000061 00000 n 
-0000000122 00000 n 
-0000000229 00000 n 
-0000000341 00000 n 
-0000000451 00000 n 
-0000000646 00000 n 
-0000000751 00000 n 
-0000000946 00000 n 
-0000001141 00000 n 
-0000001351 00000 n 
-0000001565 00000 n 
-0000001761 00000 n 
-0000001940 00000 n 
-0000002168 00000 n 
-0000002401 00000 n 
-0000002612 00000 n 
-0000002868 00000 n 
-0000002938 00000 n 
-0000003340 00000 n 
-0000003419 00000 n 
-0000005110 00000 n 
-0000007174 00000 n 
-0000009638 00000 n 
+0000000015 00000 n 
+0000000083 00000 n 
+0000000163 00000 n 
+0000000371 00000 n 
+0000000404 00000 n 
+0000000491 00000 n 
+0000000598 00000 n 
+0000000710 00000 n 
+0000000820 00000 n 
+0000000925 00000 n 
+0000001116 00000 n 
+0000003181 00000 n 
+0000003372 00000 n 
+0000005837 00000 n 
+0000006089 00000 n 
+0000006333 00000 n 
+0000006580 00000 n 
+0000006806 00000 n 
+0000007009 00000 n 
+0000007279 00000 n 
+0000007557 00000 n 
+0000007798 00000 n 
+0000010090 00000 n 
+0000010533 00000 n 
+0000010641 00000 n 
+0000010754 00000 n 
+0000014588 00000 n 
+0000015201 00000 n 
 trailer
 <<
-/ID 
-[<efa54fda8b2e34a0654f05b7132dce40><efa54fda8b2e34a0654f05b7132dce40>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 18 0 R
-/Root 17 0 R
-/Size 24
+/Size 29
+/Root 1 0 R
+/Info 23 0 R
+/ID [ (\357\245O\332\213\0564\240eO\005\267\023\055\316\100) (\357\245O\332\213\0564\240eO\005\267\023\055\316\100) ]
 >>
 startxref
-11929
+15393
 %%EOF
